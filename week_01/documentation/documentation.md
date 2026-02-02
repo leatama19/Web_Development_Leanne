@@ -7,5 +7,5 @@
 This is the first version of my Kibo poem page. I focused on choosing a readable font and simple color styling for the text and background. No additional semantic structure or images yet.
 
 ## Version 2 - Added Semantic Structure
-![alt text](weekly_task_pr1-1.png)
 
+![alt text](weekly_task_pr1.png)
