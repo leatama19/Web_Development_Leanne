@@ -1,0 +1,13 @@
+#tiles-container {
+  display: grid;
+  grid-template-columns: repeat(6, 80px); /* bigger tiles */
+  grid-gap: 10px; /* more space between tiles */
+}
+
+.tile {
+  width: 80px;  /* bigger */
+  height: 80px; /* bigger */
+  opacity: 0;
+  transition: opacity 1s;
+  border-radius: 5px; /* optional */
+}
