@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Fidget Board</title>
+
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: #f2f2f2;
+      font-family: sans-serif;
+    }
+
+    .board {
+      background: white;
+      padding: 30px;
+      border-radius: 18px;
+      box-shadow: 0 20px 40px rgba(0,0,0,0.15);
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    h2 {
+      margin: 0;
+      text-align: center;
+      font-weight: normal;
+    }
+
+    .pop {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 12px;
+      justify-items: center;
+    }
+
+    .pop input {
+      -webkit-appearance: none;
+      appearance: none;
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background: #ddd;
+      cursor: pointer;
+      box-shadow: inset 0 4px 6px rgba(0,0,0,0.2);
+      transition: 0.15s;
+    }
+
+    .pop input:checked {
+      background: #b8cfff;
+      box-shadow: inset 0 -4px 6px rgba(0,0,0,0.25);
+      transform: scale(0.9);
+    }
+
+    input[type="range"] {
+      width: 100%;
+    }
+
+    .switch {
+      -webkit-appearance: none;
+      appearance: none;
+      width: 50px;
+      height: 26px;
+      background: #ccc;
+      border-radius: 20px;
+      position: relative;
+      cursor: pointer;
+      margin: 0 auto;
+    }
+
+    .switch::after {
+      content: "";
+      position: absolute;
+      width: 20px;
+      height: 20px;
+      background: white;
+      border-radius: 50%;
+      top: 3px;
+      left: 3px;
+      transition: 0.2s;
+    }
+
+    .switch:checked {
+      background: #9ad29a;
+    }
+
+    .switch:checked::after {
+      transform: translateX(24px);
+    }
+  </style>
+</head>
+<body>
+
+  <div class="board" id="board">
+    <h2>Fidget Board</h2>
+
+    <div class="pop">
+      <input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox">
+      <input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox">
+      <input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox">
+    </div>
+
+    <input type="range" min="10" max="30" value="18" id="round">
+
+    <input type="checkbox" class="switch" id="move">
+  </div>
+
+  <script>
+    const board = document.getElementById("board");
+    const round = document.getElementById("round");
+    const move = document.getElementById("move");
+
+    round.oninput = () => {
+      board.style.borderRadius = round.value + "px";
+    };
+
+    let t = 0;
+    function loop() {
+      if (move.checked) {
+        t += 1.2;
+        board.style.transform =
+          `rotate(${Math.sin(t * 0.2)}deg)`;
+      } else {
+        board.style.transform = "rotate(0deg)";
+      }
+      requestAnimationFrame(loop);
+    }
+    loop();
+  </script>
+
+</body>
+</html>
