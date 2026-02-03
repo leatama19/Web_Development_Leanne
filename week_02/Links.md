@@ -1,6 +1,6 @@
 ## Weekly Task 02
 
-Below I have attached my hyperlink poem for weekly task 2:
+Below I have attached my hyperlink poem and a screenrecording for weekly task 2:
 
 *Link to hyperlinked poem:*
 https://leatama19.github.io/Web_Development_Leanne/week_02/index.html
