@@ -18,11 +18,11 @@ This is the first version of my Kibo poem page. I focused on choosing a readable
 
 ![alt text](weekly_task_pr3.png)
 
-## Version 5 - Enhance style
+## Version 5 - Enhanced style
 
 ![alt text](weekly_task_pr4.png)
 
-## Last Version - Changed subheading back
+## Last Version - Made changes to subheading
 
 ![alt text](weekly_task_pr5.png)
 
