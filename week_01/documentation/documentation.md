@@ -10,7 +10,7 @@ This is the first version of my Kibo poem page. I focused on choosing a readable
 
 ![alt text](weekly_task_pr1.png)
 
-## Version 3 - Added a '<section>' and a subheading
+## Version 3 - Added a section and a subheading
 
 ![alt text](weekly_task_pr2.png)
 
