@@ -1,13 +1,30 @@
+body {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: sans-serif;
+  background-color: #f0f0f0;
+}
+
+#time {
+  margin: 20px;
+  font-size: 3rem;
+}
+
 #tiles-container {
   display: grid;
-  grid-template-columns: repeat(6, 80px); /* bigger tiles */
-  grid-gap: 10px; /* more space between tiles */
+  grid-template-columns: repeat(6, 50px); 
+  grid-gap: 5px;
 }
 
 .tile {
-  width: 80px;  /* bigger */
-  height: 80px; /* bigger */
-  opacity: 0;
+  width: 50px;
+  height: 50px;
+  opacity: 0; 
   transition: opacity 1s;
-  border-radius: 5px; /* optional */
+}
+
+.tile.show {
+  opacity: 1; 
 }
