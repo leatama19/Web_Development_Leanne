@@ -9,3 +9,15 @@ This is the first version of my Kibo poem page. I focused on choosing a readable
 ## Version 2 - Added Semantic Structure
 
 ![alt text](weekly_task_pr1.png)
+
+## Version 3 
+
+![alt text](weekly_task_pr2.png)
+
+## Version 4
+
+![alt text](weekly_task_pr3.png)
+
+## Version 5 
+
+![alt text](weekly_task_pr4.png)

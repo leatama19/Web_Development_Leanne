@@ -7,7 +7,7 @@
             color: #222222;
             font-family: 'Georgia', serif;
             padding: 40px;
-            line-height: 1.6;
+            line-height: 1.8; /* improved readability */
             text-align: center;
         }
 
@@ -16,25 +16,46 @@
             margin-bottom: 20px;
         }
 
+        h2 {
+            color: #8C5C7E;
+            margin-bottom: 15px;
+        }
+
         p {
-            font-size: 15px;
+            font-size: 18px; /* increased font size */
             max-width: 600px;
             margin: 0 auto;
         }
 
-        
-        
+        img {
+            max-width: 300px;
+            margin: 20px auto;
+            display: block;
+            border-radius: 10px;
+        }
+
+        .highlight {
+            color: #C695B6;
+            font-style: italic;
+        }
     </style>
 </head>
 <body>
     <h1>Kibo Poem</h1>
-    <p>
-        Kibo leaps through morning light,<br>
-        He wags his tail with pure delight.<br>
-        Soft paws pat the garden floor,<br>
-        My friend I do adore.<br>
-        A heart so true,<br>
-        Kibo you are too cool.<br>
-    </p>
+
+    <section>
+        <h2>My Short Poem About Kibo</h2>
+
+        <img src="c:\Users\leann\OneDrive\Documents\WD_screenshots\kibo.jpeg" alt="Kibo happily running in the garden">
+
+        <p>
+            Kibo leaps through morning light,<br>
+            <span class="highlight">He wags his tail with pure delight,</span><br>
+            Soft paws pat the garden floor,<br>
+            My friend I do adore,<br>
+            <span class="highlight">A heart so true,</span><br>
+            Kibo you are too cool.
+        </p>
+    </section>
 </body>
 </html>
