@@ -25,8 +25,5 @@ function runAfterDelay() {
   setInterval(textTypewriter, 100);
 }
 
-// Start the title typewriter immediately
 setInterval(titleTypewriter, 100);
-
-// Start the paragraph typewriter after a delay
 setTimeout(runAfterDelay, 2000);
