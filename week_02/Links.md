@@ -6,6 +6,5 @@ Below I have attached my hyperlink poem for weekly task 2:
 https://leatama19.github.io/Web_Development_Leanne/week_02/index.html
 
 
-
 *Link to screen recording:* https://drive.google.com/file/d/1WG5mbcVBTtZHFJjOmigLl_8K7CmoMCtL/view?usp=sharing
 
