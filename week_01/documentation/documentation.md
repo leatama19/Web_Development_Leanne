@@ -1,6 +1,6 @@
 # Documentation - Kibo Poem
 *Access site link below:*
-https://leatama19.github.io/Web_Development_Leanne/week_01/weekly_task_part_02.html
+https://leatama19.github.io/Web_Development_Leanne/week_01/weekly_task_part_01.html
 
 ## Stage 1
 ![alt text](weekly_task_part01.png)
