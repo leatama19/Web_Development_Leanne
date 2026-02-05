@@ -27,4 +27,13 @@ body {
 
 .tile.show {
   opacity: 1; 
+
+/* Keyboard navigation focus styles */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible {
+  outline: 2px solid #F4C9D6;
+  outline-offset: 4px;
+}
+
 }
