@@ -2,6 +2,11 @@
 
 ## Contents:
 
+**leanne_portfolio_website**:
+- Documentation
+- Images
+- Code
+
 **week_01**: 
 - Weekly task
 - Images folder
