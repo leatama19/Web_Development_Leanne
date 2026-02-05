@@ -1,5 +1,8 @@
 # My Portfolio Website Documentation
 
+Link to site: 
+https://leatama19.github.io/Web_Development_Leanne/leanne_portfolio_website/index.html
+
 ## Intro
 This project is a personal portfolio website to showcase my weekly tasks and creative work. The website demonstrates my understanding of HTML, CSS, JavaScript, accessibility, and design principles, while also reflecting my interest in digital design and UX/UI within my about me section.
 
