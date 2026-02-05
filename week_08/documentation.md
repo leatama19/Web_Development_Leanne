@@ -1,4 +1,5 @@
 ## Weekly Task 08 Documentation
+*Access links for screen recording*
 
 ## Stage 1
 ![alt text](Fidget_Board_1-1.png)
@@ -37,3 +38,7 @@ Link: https://drive.google.com/file/d/1nWbiKuSNrNiJjxroY3_u2-_F0tLDUBJh/view?usp
  - This can be turned off when clicked again
  - Improved the visual of the checkboxes
  
+ ## Reflection
+ Overall, this project was very fun to make and experiment. I ran into some challenges when styling inputs and making sure the interactions responded correctly. 
+ 
+ If I were to continue developing it, I would add more fidget-style interactions and experiment with color, since the current design feels a bit visually bland. I would also focus more on balancing visual styling with interactivity to make the experience more engaging overall.
