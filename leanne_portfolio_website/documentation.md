@@ -14,7 +14,7 @@ For the website design plans, I decided to use Figma, which allowed me to protot
 ![alt text](<Screenshot 2026-02-05 003256.png>) 
 *Below is the design plan I went with:*
 ![alt text](website_plan.jpeg) 
-
+I decided not to include a scroll feature on the home page because I didn’t want to overload it with too much content. I thought it was better to keep the homepage simple and clean, allowing users to click on the sections they want to access and will be easier to navigate. 
 
 ## Reflection: 
 What I found challenging was integrating JavaScript features without disrupting the layout on the weekly task page. I wasn't sure what exactly was affecting the layout.
