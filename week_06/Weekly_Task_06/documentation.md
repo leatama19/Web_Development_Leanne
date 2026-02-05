@@ -1,4 +1,5 @@
 ## Weekly Task 06 Documentation
+*Access Link at the end to watch screen recording*
 
 ## Stage 1
 ![alt text](batik1-1.png)
