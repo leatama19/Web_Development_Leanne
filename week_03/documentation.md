@@ -1,5 +1,5 @@
 ## Weekly Task 3
-**Access links for screen recording**
+**Access links for screen recording below or in links file**
 
 ## Stage 1
 ![alt text](w3_1.png)
