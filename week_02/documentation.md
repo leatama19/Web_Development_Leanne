@@ -5,6 +5,7 @@
 - The project consists of multiple HTML files, each representing a line of a lyric
 - Each page contains a hyperlink that leads to the next line
 - Kept the styling minimal to focus on text, emotion, and interaction
+- When cursor hovers on the lyric, colour changes and when clicked lyric change
 
 *Click links to view site and screen recording:*
 
