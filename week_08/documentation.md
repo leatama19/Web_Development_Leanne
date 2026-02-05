@@ -1,6 +1,9 @@
 ## Weekly Task 08 Documentation
 *Access links for screen recording*
 
+## Sketch Plan
+![alt text](sketch_fidget_board.jpeg) 
+
 ## Stage 1
 ![alt text](Fidget_Board_1-1.png)
 Link: https://drive.google.com/file/d/1scB_nS4PbfafxhLIJiW_pzBkbXpkAJfj/view?usp=sharing
