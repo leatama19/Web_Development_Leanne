@@ -32,6 +32,7 @@ Link: https://drive.google.com/file/d/1nWbiKuSNrNiJjxroY3_u2-_F0tLDUBJh/view?usp
 
 
  ## Stage 5
+ ![alt text](<Screenshot 2026-02-05 002056.png>)
  https://drive.google.com/file/d/1bFYOhrkKRqsouFtmzh-0t0nJNcv0JeUM/view?usp=sharing
  - Integrates interaction and motion into the fidget board
  - When switch is pressed, the 'fidget board' shakes 
