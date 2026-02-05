@@ -12,6 +12,9 @@ The design of the website is minimal and clean, focussing on readability and vis
 For the website design plans, I decided to use Figma, which allowed me to prototype layouts. 
 *Here's a few that I made*:
 ![alt text](<Screenshot 2026-02-05 003256.png>) 
+**Link to figma project:** 
+https://www.figma.com/design/MEgxvSVQOQyr1FiKRQ6uTs/Web-designa?node-id=0-1&t=fN57Z8mgMVF2R0vj-1 
+
 *Below is the design plan I went with:*
 ![alt text](website_plan.jpeg) 
 I decided not to include a scroll feature on the home page because I didn’t want to overload it with too much content. I thought it was better to keep the homepage simple and clean, allowing users to click on the sections they want to access and will be easier to navigate. 
@@ -19,4 +22,4 @@ I decided not to include a scroll feature on the home page because I didn’t wa
 ## Reflection: 
 What I found challenging was integrating JavaScript features without disrupting the layout on the weekly task page. I wasn't sure what exactly was affecting the layout.
 
-To improve this website, I would like to add more detailed project pages, improve mobile responsiveness, and include additional interactive elements to further enhance the user experience.
+To improve this website, I would like to add more detailed project pages, improve mobile responsiveness, and include additional interactive elements to enhance the user experience.
