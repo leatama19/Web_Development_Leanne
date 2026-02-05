@@ -3,6 +3,11 @@
 
 ## Sketch Plan
 ![alt text](sketch_fidget_board.jpeg) 
+Fidget options:
+- Sliders
+- Pop-it features
+- A switch 
+- Rounded edges
 
 ## Stage 1
 ![alt text](Fidget_Board_1-1.png)
